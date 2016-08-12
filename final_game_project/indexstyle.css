@@ -1,0 +1,56 @@
+body{
+  background-image: url("http://www.zingerbug.com/Backgrounds/background_images/small_light_blue_bricks_seamless_pattern.gif");
+  opacity: 50;
+  
+}
+
+h1{
+  text-align: center;
+  font-size: 72;
+  font-family: 'Arial Black';
+
+  
+}
+
+h2{
+	text-align: center;
+	font-family: 'Arial Black';
+}
+
+p{
+	text-align: center;
+	border-style: bold;
+	border: 1px;
+	font-style: bold;
+	font-family: 'Arial Black';
+
+}
+
+a:link{
+	color: blue;
+	
+}
+
+a:visited{
+	color: blue;
+
+}
+
+a:hover{
+	color: red;
+}
+
+a:active{
+	color: purple;
+
+}
+
+.level1{
+	text-align: center;
+	font-family: 'Arial Black';
+}
+
+.level2{
+	text-align: center;
+	font-family: 'Arial Black';
+}
